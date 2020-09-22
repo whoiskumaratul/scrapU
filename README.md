@@ -35,20 +35,22 @@
 <br>
 <br>
 
-<br>💥How To Install💥
+<br><h2>💥How To Install?💥</h2>
 <br>
 <br>$ sudo git clone https://github.com/whoiskumaratul/scrapU.git
 <br>$ cd scrapU
 <br>
 <br>
 
-<br>💥Requirements💥
+<br><h2>💥Requirements💥</h2>
 <br>
 <br>$ sudo pip install requests<br>
 <br>$ virtualenv websc<br>
 <br>$ sudo pip install beautifulsoup4<br>
 <br>
 <br>
+
+<br><h2>💥How To Use?💥</h2>
 <br>💥First you need to copy a any link and then run this program.
 <br>
 <br>💥python3 scrapeU.py
