@@ -38,6 +38,12 @@
 <br><h2>💥How To Install?💥</h2>
 <br>
 <br>$ sudo git clone https://github.com/whoiskumaratul/scrapU.git
+<br>
+
+<img src="https://1.bp.blogspot.com/-HeCtkwTxgXM/X2n8dymGYyI/AAAAAAAAELQ/f6FK7yn02aQD-uuZb8CMEiBXrcaMC2HyQCLcBGAsYHQ/w640-h98/clone.png" alt="ScrapU">
+
+
+<br>
 <br>$ cd scrapU
 <br>
 <br>
