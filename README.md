@@ -39,11 +39,13 @@
 <br>
 <br>$ sudo git clone https://github.com/whoiskumaratul/scrapU.git
 <br>
+<br>
 <img src="https://1.bp.blogspot.com/-HeCtkwTxgXM/X2n8dymGYyI/AAAAAAAAELQ/f6FK7yn02aQD-uuZb8CMEiBXrcaMC2HyQCLcBGAsYHQ/w640-h98/clone.png" alt="ScrapU">
 
 
 <br>
 <br>$ cd scrapU
+<br>
 <br>
 <img src="https://1.bp.blogspot.com/-Y5LUkXNinLw/X2n_iHFSubI/AAAAAAAAELc/nKhcdaODHyYNJOaOe9aGYia8h3snp4JhACLcBGAsYHQ/w640-h144/change-directory-hackingtruth.png" alt="ScrapU">
 <br>
