@@ -1,8 +1,11 @@
 /➖➖➖➖➖➖➖➖➖➖➖➖➖//➖➖➖➖➖➖➖➖➖➖➖➖➖//➖➖➖➖➖➖➖➖➖➖➖➖➖//➖➖➖➖➖➖➖➖➖➖➖➖
-<br>💥Project              - ScrapeU.py
-<br>💥Created by           - Kumar Atul Jaiswal
-<br>💥Date                 - 17/09/2020
-<br>💥Programming Language - Python3
+<br>
+<br><h2>ScrapU - Scrape The Web </h2>
+<br>
+<br>💥<b>Project              - ScrapeU.py
+<br>💥<b>Created by           - Kumar Atul Jaiswal
+<br>💥<b>Date                 - 17/09/2020
+<br>💥<b>Programming Language - Python3
 <br>
 <br>🌐website              - https://www.kumaratuljaiswal.in
 <br>🌐website              - https://www.hackingtruth.in
@@ -29,6 +32,13 @@
 
 
 <br>💥ScrapeU means Web scraping - Is an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form.
+<br>
+<br>
+
+<br>💥How To Install💥
+<br>
+<br>$ sudo git clone https://github.com/whoiskumaratul/scrapU.git
+<br>$ cd scrapU
 <br>
 <br>
 
