@@ -16,7 +16,7 @@ $$    $$/ $$       |$$ |     $$    $$ |$$    $$/ $$       |      $$    $$/
 
 """
 try:
-    print(header + "                             by KumarAtulJaiswal (@whoiskumaratul)\n")
+    print(header + "                             by KumarAtulJaiswal (@whoiskumaratul) © 2020 HackingTruth.in\n")
 except:
     print(header + "                                   by @whoiskumaratul\n")
 
