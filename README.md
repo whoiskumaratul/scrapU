@@ -1,48 +1,47 @@
 /➖➖➖➖➖➖➖➖➖➖➖➖➖//➖➖➖➖➖➖➖➖➖➖➖➖➖//➖➖➖➖➖➖➖➖➖➖➖➖➖//➖➖➖➖➖➖➖➖➖➖➖➖
-| 💥Project              - ScrapeU.py
-/ 💥Created by           - Kumar Atul Jaiswal
-| 💥Date                 - 17/09/2020
-/ 💥Programming Language - Python3
-| 
-/ 🌐website              - https://www.kumaratuljaiswal.in
-| 🌐website              - https://www.hackingtruth.in
-/ 
-| 🔥YT Channel🔥         - https://youtube.com/c/whoiskumaratul   
-/ 
-| 
-/ 🔥Stay Connected🔥
-| 
-/ https://instagram.com/h4cking_truth.in_
-| https://instagram.com/hackingtruthin
-/ https://fb.com/hackingtruthin
-| https://twitter.co/hackingtruthin
-/ https://www.linkedin.com/company/hackingtruthin
-| 
-/ https://instagram.com/whoiskumaratul
-| https://fb.com/whoiskumaratul
-/ https://twitter.com/whoiskumaratul
-| https://linkedIn.com/in/whoiskumaratul
-/ 
-| 
-/ 
-| 
-/ ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-
-
-💥ScrapeU means Web scraping - Is an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form.
+<br>💥Project              - ScrapeU.py
+<br>💥Created by           - Kumar Atul Jaiswal
+<br>💥Date                 - 17/09/2020
+<br>💥Programming Language - Python3
+<br>
+<br>🌐website              - https://www.kumaratuljaiswal.in
+<br>🌐website              - https://www.hackingtruth.in
+<br>
+<br>🔥YT Channel🔥         - https://youtube.com/c/whoiskumaratul
+<br>
+<br>
+<br>🔥Stay Connected🔥<br>
+<br>
+<br>https://instagram.com/h4cking_truth.in_
+<br>https://instagram.com/hackingtruthin
+<br>https://fb.com/hackingtruthin
+<br>https://twitter.co/hackingtruthin
+<br>https://www.linkedin.com/company/hackingtruthin
+<br>
+<br>https://instagram.com/whoiskumaratul
+<br>https://fb.com/whoiskumaratul
+<br>https://twitter.com/whoiskumaratul
+<br>https://linkedIn.com/in/whoiskumaratul
+<br>
+ 
 
 
 
-💥Requirements💥
 
-$ sudo pip install requests
-$ virtualenv websc
-$ sudo pip install beautifulsoup4
+<br>💥ScrapeU means Web scraping - Is an automated method used to extract large amounts of data from websites. The data on the websites are unstructured. Web scraping helps collect these unstructured data and store it in a structured form.
+<br>
+<br>
 
-
-💥First you need to copy a any link and then run this program.
-
-💥python3 scrapeU.py
+<br>💥Requirements💥
+<br>
+<br>$ sudo pip install requests<br>
+<br>$ virtualenv websc<br>
+<br>$ sudo pip install beautifulsoup4<br>
+<br>
+<br>
+<br>💥First you need to copy a any link and then run this program.
+<br>
+<br>💥python3 scrapeU.py
 
 
 
